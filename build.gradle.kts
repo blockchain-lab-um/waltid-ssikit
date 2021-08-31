@@ -67,7 +67,7 @@ dependencies {
     implementation("io.ktor:ktor-client-logging:1.6.1")
 
     // REST
-    implementation("io.javalin:javalin-bundle:3.13.9")
+    implementation("io.javalin:javalin-bundle:3.13.11")
 
     // Logging
     implementation("org.slf4j:slf4j-api:2.0.0-alpha2")
